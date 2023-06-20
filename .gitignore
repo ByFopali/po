@@ -1,0 +1,12 @@
+venv/
+migrations/
+__pycache__/
+media/
+staticfiles/
+.idea/
+db.sqlite3
+.env
+*.pyc
+*.pyo
+*.log
+.swp
